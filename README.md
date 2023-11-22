@@ -11,6 +11,8 @@ I specialize in Power Platform development and governance, crafting solutions on
 
 Digital Workplace - M365, Power Platform, MS Teams, Viva, Python
 
+[Linkedin Profile](https://www.linkedin.com/in/sahadeb-patro/)
+
 ## Organisations
 - Microsoft Pvt. Ltd.						       		
 - E&Y 			        		
@@ -18,7 +20,7 @@ Digital Workplace - M365, Power Platform, MS Teams, Viva, Python
 - L&T Technology Services
 - MindTree
 
-- [Linkedin Profile](https://www.linkedin.com/in/sahadeb-patro/)
+
 
 ## Projects
 
