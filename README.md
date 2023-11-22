@@ -18,4 +18,4 @@ Digital Workplace - M365, Power Platform, MS Teams, Viva, Python
 - L&T Technology Services
 - MindTree
 
-- [Data Science Blog](https://medium.com/@shawhin)
+- [Linkedin Profile](https://www.linkedin.com/in/sahadeb-patro/)
