@@ -1,6 +1,6 @@
 # Cloud Solution Architect @Microsoft 
 
-#### Lifelong Learner | Microsoft Certified Trainer
+#### Lifelong Learner | Microsoft Certified Trainer (MCT)
 
 ## About
 Digital Transformation enabler with a passion for developing robust and scalable cloud solutions. Focused on creating exceptional employee experiences through the implementation of the Microsoft Modern Workplace.
