@@ -19,3 +19,29 @@ Digital Workplace - M365, Power Platform, MS Teams, Viva, Python
 - MindTree
 
 - [Linkedin Profile](https://www.linkedin.com/in/sahadeb-patro/)
+
+## Projects
+
+#### Project Title: FraudGuard
+
+Objective:
+- Implement a streamlined fraud detection system for enhanced financial transaction security.
+
+Data Insight:
+- Analyzed historical transactions to identify key features for fraud detection.
+Data Refinement:
+- Cleaned data, addressing missing values and outliers, ensuring uniformity. Model Experimentation:
+- Explored models like logistic regression, fine-tuning for optimal performance.
+Real-time Monitoring:
+- Integrated real-time monitoring, leveraging streaming data for instant analysis.
+Anomaly Detection:
+- Implemented anomaly detection algorithms, refining thresholds based on data characteristics.
+Alert System:
+- Developed an alert mechanism, providing actionable information for swift investigation.
+Continuous Improvement:
+- Established a feedback loop for ongoing model enhancement based on flagged transactions.
+Communication & Knowledge Share:
+- Facilitated clear communication and conducted knowledge-sharing sessions.
+Conclusion:
+- Contributed to FraudGuard's development, fortifying our ability to detect and counter fraudulent activities in financial transactions.
+
